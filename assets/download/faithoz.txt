@@ -1,0 +1,82 @@
+FAITH NYABERI
+Software Engineer(ALX Graduate)
+TFK Fellow(cohort 4)
+
+Faith Nyaberi
+Nairobi, Kenya
+00100
+Phone: +254715067407
+Email: faithnyabz69@gmail.com
+Github portfolio: https://github.com/Obony
+Linkedin: https://www.linkedin.com/in/faith-nyaberi-a77a38253/
+Alx Student Transcript: https://intranet.alxswe.com/users/my_transcript
+
+
+ㅡ
+SKILLS
+
+
+
+Procurement and General Administrative Skills:
+ - Proficient in procurement processes, vendor management, and supply chain coordination, record keeping.
+- Proven ability to negotiate and secure cost-effective contracts with suppliers.
+- Strong understanding of procurement regulations and compliance and detail-oriented and skilled in managing inventory and optimizing supply chain efficiency.
+Teaching Skills
+The Teach For Kenya Summer Institute Training programme upscaled my teaching skills to the lower grade learners
+Fullstack  Programming Skills:
+- Proficient in server-side programming languages like Python, Node.js.
+- Skilled in database design and management using SQL and NoSQL and  databases and proficiency in cloud services (e.g., AWS) for scalability and performance optimization.
+- Exceptional expertise in HTML, CSS, and JavaScript.
+Soft Skills:
+- Exceptional problem-solving skills, creative mindset, strong communication and teamwork abilities, fostering collaboration among teams, proven ability to meet tight deadlines and adapt to evolving project requirements and dedication to continuous learning and staying updated with industry trends, and dealing with young learners.
+-Overall, I bring a well-rounded skill set that encompasses both procurement and programming expertise. My commitment to quality, adaptability, and teamwork make me a valuable asset in any project or team.
+
+
+ㅡ
+WORK EXPERIENCE
+
+Teach For Kenya Fellow
+January 2024 - December 2025(day time)
+
+- This encompasses teaching core academic subjects, mentoring students, engaging with the local community, advocating for educational equity, developing and adapting curriculum, analyzing student data for progress, and fostering personal and academic growth, working  tirelessly to make a positive impact on underserved communities, striving to create lasting change in the lives of the students while advocating for broader social transformation through education.
+
+Ivy-United Kingdom/ Machine Learning Intern
+June 2023 
+
+-Contributed to Artificial Intelligence and data analysis to support and enhance projects within the machine learning team. Collaborating with experienced professionals, applying my knowledge of various machine learning algorithms, statistical methods, and data preprocessing techniques to analyze datasets, extract meaningful insights, and develop predictive models.
+
+Proc&Logistics / Procurement writer and consultant
+May 2017 - 2019
+
+-I provided expert guidance, created comprehensive written materials related to procurement processes and strategies, collaborated with organizations to enhance their procurement practices, ensuring cost-efficiency and compliance. I crafted procurement documentation, negotiating contracts, and offering strategic advice to optimize supply chains, hence helping businesses achieve cost savings and operational excellence.
+
+
+ㅡ
+EDUCATION
+
+TFK Summer Institute Training/Fellow
+October 2023 - December 2023,  Nairobi, Kenya
+
+6-week summer institute training(30th October-8th December), focused on several key areas that are fundamental to development as an education fellow. 
+Holberton School-ALX Africa/ Associate Degree
+December 2022 - January 2024,  Nairobi, Kenya
+Software Engineering
+Mount Kenya University / Degree
+September 2014 - December 2017, Mombasa, Kenya
+Bachelors of Business Management-Procurement and Supplies speciality
+Second Class Uppers.
+
+
+ㅡ
+PROJECTS
+
+TFK Matriculation Process
+The process at Kwa Njenga Primary School for Grade 4 kids  was a significant educational milestone. It involved a series of assessments and evaluations to determine each student's academic progress and readiness for the next grade. This process aimed to ensure that students had acquired the necessary knowledge and skills to move on successfully in their education journey. It included subject-specific tests, teacher evaluations, and overall performance assessments, ultimately allowing students to transition to the next level of their education with confidence.
+
+AIRBNB WEBSITE CLONE
+Designed and implemented a fully functional Airbnb clone web application, utilizing technologies such as HTML, CSS, JavaScript, MySQL databases, Python, and Node.js. Incorporated user authentication, property listing, and booking features, providing a seamless and intuitive experience for users to explore, rent, and manage properties.
+
+TWITTER SOCIAL MEDIA CLONE
+Created a Twitter clone web application from scratch, combining frontend technologies like HTML, CSS, and JavaScript with backend technologies such as Node.js and Express. Implemented user authentication, real-time posting, and follower interactions to deliver a comprehensive social media experience.
+
+
